@@ -1,4 +1,5 @@
 ****************************************************************************************************************************
+
 Abstract:
 This script is just a quick hack to export the owners and members of a team as a CSV file without administrator permissions.
 
@@ -14,6 +15,4 @@ Usage:
 7. Copy and paste all the content of this script to the console and type "Enter"
 8. The CSV file download should start automatically
 
-ToDo:
-- Parse tags to include them in the export
 ****************************************************************************************************************************
