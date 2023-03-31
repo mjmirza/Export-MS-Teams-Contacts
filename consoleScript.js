@@ -21,7 +21,7 @@ $(function() {
   // **************
   // Initialization
   // **************
-  const csvFileName = 'team-membership-roster-export.csv'
+  const csvFileName = 'MSteam-channel-userlist-export.csv'
   const csvDelimiter = ','
   const csvHeader = 'Display Name' + csvDelimiter + 'Title' + csvDelimiter + 'Location' + csvDelimiter + 'Role' + csvDelimiter + 'UPN' + '\r\n' // CSV header row
   let csvContent = csvHeader // Initialize CSV content
