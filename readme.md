@@ -4,8 +4,8 @@ This script is just a quick hack to export the owners and members of a team as a
 
 Usage:
 1. Open your team
-  -- Open the following url (make sure to have it open in browser - NOT in the application)
-  -- https://teams.microsoft.com/
+  - Open the following url (make sure to have it open in browser - NOT in the application)
+  - https://teams.microsoft.com/
 2. Select "Manage team" from its menu
 3. Select the "Members" tab
 4. Expand the "Owners" and "Members and guests" sections
